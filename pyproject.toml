@@ -1,7 +1,7 @@
 [project]
 name = "week01"
 version = "0.1.0"
-description = "Add your description here"
+description = "使用python练习各种集合对象"
 readme = "README.md"
 authors = [
     { name = "wang", email = "131119****@qq.com" }

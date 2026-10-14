@@ -1,0 +1,27 @@
+{
+  "report_date": "2026-10-01",
+  "source": "demo-data",
+  "note": "全部为虚构演示数据，不含任何真实客户信息",
+  "orders": [
+    {"order_id": "SO-1001", "city": "西安", "category": "服务器", "sales": "张三", "amount": 12000, "qty": 1},
+    {"order_id": "SO-1002", "city": "成都", "category": "显示器", "sales": "李四", "amount": 2400, "qty": 2},
+    {"order_id": "SO-1003", "city": "西安", "category": "键盘", "sales": "王五", "amount": 360, "qty": 3},
+    {"order_id": "SO-1004", "city": "杭州", "category": "服务器", "sales": "赵六", "amount": 18000, "qty": 1},
+    {"order_id": "SO-1005", "city": "西安", "category": "显示器", "sales": "张三", "amount": 3600, "qty": 3},
+    {"order_id": "SO-1006", "city": "成都", "category": "服务器", "sales": "李四", "amount": 9500, "qty": 1},
+    {"order_id": "SO-1007", "city": "杭州", "category": "键盘", "sales": "赵六", "amount": 480, "qty": 4},
+    {"order_id": "SO-1008", "city": "西安", "category": "服务器", "sales": "王五", "amount": 15500, "qty": 1},
+    {"order_id": "SO-1009", "city": "成都", "category": "键盘", "sales": "孙七", "amount": 240, "qty": 2},
+    {"order_id": "SO-1010", "city": "杭州", "category": "显示器", "sales": "赵六", "amount": 4800, "qty": 4},
+    {"order_id": "SO-1011", "city": "西安", "category": "键盘", "sales": "张三", "amount": 600, "qty": 5},
+    {"order_id": "SO-1012", "city": "成都", "category": "显示器", "sales": "孙七", "amount": 1800, "qty": 2},
+    {"order_id": "SO-1013", "city": "杭州", "category": "服务器", "sales": "李四", "amount": 22000, "qty": 1},
+    {"order_id": "SO-1014", "city": "西安", "category": "显示器", "sales": "王五", "amount": 2400, "qty": 2},
+    {"order_id": "SO-1015", "city": "成都", "category": "服务器", "sales": "孙七", "amount": 7800, "qty": 1},
+    {"order_id": "SO-1016", "city": "杭州", "category": "键盘", "sales": "李四", "amount": 720, "qty": 6},
+    {"order_id": "SO-1017", "city": "西安", "category": "服务器", "sales": "张三", "amount": 13200, "qty": 1},
+    {"order_id": "SO-1018", "city": "成都", "category": "键盘", "sales": "李四", "amount": 300, "qty": 2},
+    {"order_id": "SO-1019", "city": "杭州", "category": "显示器", "sales": "孙七", "amount": 6000, "qty": 5},
+    {"order_id": "SO-1020", "city": "西安", "category": "键盘", "sales": "赵六", "amount": 900, "qty": 7}
+  ]
+}

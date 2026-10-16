@@ -7,7 +7,9 @@ authors = [
     { name = "wang", email = "131119****@qq.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "requests>=2.34.2",
+]
 
 [project.scripts]
 week01 = "week01:main"

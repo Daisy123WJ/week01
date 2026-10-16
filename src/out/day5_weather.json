@@ -1,0 +1,13 @@
+{
+  "city": "Xian",
+  "fetched_at": "2026-10-16 10:12:41",
+  "temp_c": 19,
+  "feels_like_c": 19,
+  "humidity": 66,
+  "wind_kmph": 5,
+  "desc": "Smoky haze",
+  "today_max_c": 27,
+  "today_min_c": 18,
+  "sunrise": "06:50 AM",
+  "sunset": "06:09 PM"
+}
